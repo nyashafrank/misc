@@ -36,6 +36,7 @@
 <br>
 You've successfully created a Cloud9 account! 
 <br>
+<br>
 <h2 id="connect-your-github-to-cloud9">Connect your GitHub to Cloud9</h2>
 <p>Login to Cloud9</p>
 <p>Go to <strong>Repositories</strong> on the left-hand side of your dashboard</p>
@@ -49,7 +50,7 @@ You've successfully created a Cloud9 account!
 <li>Choose Public or Private, then choose your template (Node.js)<br>
 <br></li>
 </ul>
-<p>Once your workspace is created, in your bash terminal enter the below commands in order</p>
+<p>Once your workspace is created, in your bash terminal enter the following commands in order</p>
 <p>Copy the contact-manager repository</p>
 <blockquote>
 <p>git clone h<span>ttps://github.com/steevejoseph/contact-manager</span></p>
