@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="cloud9-environment-setup">Cloud9 Environment Setup</h1>
 <p>Follow the instructions below to get your:</p>
 <ul>
