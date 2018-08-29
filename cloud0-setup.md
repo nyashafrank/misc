@@ -51,17 +51,21 @@ You've successfully created a Cloud9 account!
 <p>Copy the contact-manager repository</p>
 <blockquote>
 <p>git clone h<span>ttps://github.com/steevejoseph/contact-manager</span></p>
+ <p></p>
 </blockquote>
 <p>Install MongoDB in your workspace</p>
+<p></p>
 <blockquote>
 <p>sudo apt-get install -y mongodb-org</p>
 </blockquote>
+<p></p>
 <p>Running  MongoDB</p>
 <blockquote>
 <p>mkdir data</p>
 <p>echo ‘mongod --bind_ip=$IP --dbpath=data --nojournal --rest “$@”’ &gt; mongod</p>
 <p>chmod a+x mongod</p>
 </blockquote>
+<p></p>
 <p>Start Mongod</p>
 <blockquote>
 <p>./mongod</p>
